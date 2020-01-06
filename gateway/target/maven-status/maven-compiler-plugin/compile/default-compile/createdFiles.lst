@@ -1,0 +1,10 @@
+com\ssu\config\WebAppInitializer.class
+com\ssu\dao\implementations\UserAndSessionDao.class
+com\ssu\contoller\GatewayController.class
+com\ssu\config\AppConfig.class
+com\ssu\model\SignInInfo.class
+com\ssu\model\UserAndSession.class
+com\ssu\service\implementations\UserAndSessionService.class
+com\ssu\model\User.class
+com\ssu\service\interfaces\UserAndSessionServiceInterface.class
+com\ssu\dao\interfaces\UserAndSessionDaoInterface.class

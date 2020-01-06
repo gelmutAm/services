@@ -1,0 +1,10 @@
+C:\Users\Настасия\Desktop\gateway\src\main\java\com\ssu\contoller\GatewayController.java
+C:\Users\Настасия\Desktop\gateway\src\main\java\com\ssu\service\implementations\UserAndSessionService.java
+C:\Users\Настасия\Desktop\gateway\src\main\java\com\ssu\service\interfaces\UserAndSessionServiceInterface.java
+C:\Users\Настасия\Desktop\gateway\src\main\java\com\ssu\dao\interfaces\UserAndSessionDaoInterface.java
+C:\Users\Настасия\Desktop\gateway\src\main\java\com\ssu\model\SignInInfo.java
+C:\Users\Настасия\Desktop\gateway\src\main\java\com\ssu\model\UserAndSession.java
+C:\Users\Настасия\Desktop\gateway\src\main\java\com\ssu\dao\implementations\UserAndSessionDao.java
+C:\Users\Настасия\Desktop\gateway\src\main\java\com\ssu\config\WebAppInitializer.java
+C:\Users\Настасия\Desktop\gateway\src\main\java\com\ssu\model\User.java
+C:\Users\Настасия\Desktop\gateway\src\main\java\com\ssu\config\AppConfig.java
